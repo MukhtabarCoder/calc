@@ -2,7 +2,7 @@
 
 int main()
 {
-  write(1, "Hello From C.", 14);
+  write(1, "Hello From C.\n", 14);
 
   return (0);
 }
